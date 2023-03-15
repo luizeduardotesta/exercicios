@@ -1,0 +1,11 @@
+.card-alunos {
+    width: 200px;
+    margin: 20px;
+    border: 2px solid black;
+    padding: 5px 10px;
+    text-align: center;
+}
+
+.card-alunos .telefone {
+    color: blue;
+}
