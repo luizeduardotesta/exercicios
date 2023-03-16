@@ -1,3 +1,5 @@
+Este é um apenas um repositório onde eu guardo as aulas que estou fazendo nos cursos.
+
 Exercicicio dia 15/03/2023
 
 - Crie um array de alunos (nome, data de nascimento, nota, telefone);
